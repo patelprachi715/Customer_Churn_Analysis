@@ -74,8 +74,6 @@ Customer churn directly impacts company revenue and customer lifetime value. The
 
 ## Project Structure
 
-## Project Structure
-
 ```text
 Customer_Churn_Analysis
 │
@@ -95,6 +93,7 @@ Customer_Churn_Analysis
 │   └── customer_churn_dashboard.png
 │
 └── README.md
+```
 
 ---
 
